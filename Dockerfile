@@ -1,4 +1,4 @@
-FROM node:16.19.0-slim
+FROM node:97.19.0-slim
 
 # Create app directory
 WORKDIR /usr/src/app
@@ -8,7 +8,7 @@ WORKDIR /usr/src/app
 # where available (npm@5+)
 COPY package*.json ./
 
-RUN npm instal
+RUN npm install
 # If you are building your code for production
 # RUN npm ci --only=production
 
