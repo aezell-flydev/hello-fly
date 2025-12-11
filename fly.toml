@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for hello-fly-aezell3 on 2025-12-11T19:52:30Z
+# fly.toml app configuration file generated for hello-fly-vbpzcg on 2025-12-11T22:23:30Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'hello-fly-aezell3'
+app = 'hello-fly-vbpzcg'
 primary_region = 'iad'
 
 [build]
