@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for aezell-test1 on 2025-12-09T20:48:25Z
+# fly.toml app configuration file generated for aezell-hello2 on 2025-12-11T16:48:00Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'aezell-test1'
+app = 'aezell-hello2'
 primary_region = 'iad'
 
 [build]
