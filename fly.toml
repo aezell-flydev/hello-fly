@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for hello-fly-dtowzq on 2025-12-17T15:58:50Z
+# fly.toml app configuration file generated for hello-fly-9m4yra on 2025-12-18T23:23:44Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'hello-fly-dtowzq'
+app = 'hello-fly-9m4yra'
 primary_region = 'iad'
 
 [build]
