@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for hello-fly-3ek77a on 2026-01-06T16:15:44Z
+# fly.toml app configuration file generated for hello-fly-nk8cbw on 2026-01-07T15:02:08Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'hello-fly-3ek77a'
+app = 'hello-fly-nk8cbw'
 primary_region = 'iad'
 
 [build]
