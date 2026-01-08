@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for hello-fly-0zvcwa on 2026-01-08T18:39:05Z
+# fly.toml app configuration file generated for hello-fly-weqtgg on 2026-01-08T18:40:43Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'hello-fly-0zvcwa'
-primary_region = 'iad'
+app = 'hello-fly-weqtgg'
+primary_region = 'gru'
 
 [build]
 
