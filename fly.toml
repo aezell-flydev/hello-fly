@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for hello-fly-0108260313pm on 2026-01-08T21:14:12Z
+# fly.toml app configuration file generated for hello-fly-4haeog on 2026-01-08T21:27:08Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'hello-fly-0108260313pm'
-primary_region = 'ord'
+app = 'hello-fly-4haeog'
+primary_region = 'ams'
 
 [build]
 
@@ -20,4 +20,4 @@ primary_region = 'ord'
   memory = '1gb'
   cpu_kind = 'shared'
   cpus = 1
-  memory_mb = 512
+  memory_mb = 256
