@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for hello-fly-ltcioq on 2026-01-08T22:25:48Z
+# fly.toml app configuration file generated for hello-fly-0109261057 on 2026-01-09T16:58:19Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'hello-fly-ltcioq'
-primary_region = 'ams'
+app = 'hello-fly-0109261057'
+primary_region = 'ord'
 
 [build]
 
