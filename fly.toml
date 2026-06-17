@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for hello-fly-jeiarw on 2026-01-21T20:05:32Z
+# fly.toml app configuration file generated for hello-fly-j-h6ig on 2026-06-17T15:41:42Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'hello-fly-jeiarw'
+app = 'hello-fly-j-h6ig'
 primary_region = 'ams'
 
 [build]
